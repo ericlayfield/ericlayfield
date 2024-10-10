@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Eric Layfield
+- I'm moving out of the corporate world taking with me years of experiences with TONS of practical development skills that includes very focused testing and agile practices 
 - 💞️ I’m looking to collaborate on Java based projects
